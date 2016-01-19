@@ -8,11 +8,11 @@ tester.describe("percent-value", test => {
     });
 
     test.should("handle percent ... get ...", () => {
-        test.expect(percent(50).get(20)).toBe(20);
+        test.expect(percent(50).get(20)).toBe(10);
     });
 
     test.should("handle percent ... from ...", () => {
-        test.expect(percent(20).from(50)).toBe(20);
+        test.expect(percent(20).from(50)).toBe(10);
     });
 
     test.should("handle percent ... is ...", () => {

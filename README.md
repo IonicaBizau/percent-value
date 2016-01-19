@@ -1,3 +1,5 @@
+[![percent-value](http://i.imgur.com/aDuRzA9.png)](#)
+
 # percent-value [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/percent-value.svg)](https://www.npmjs.com/package/percent-value) [![Downloads](https://img.shields.io/npm/dt/percent-value.svg)](https://www.npmjs.com/package/percent-value) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Percentage helper functions.
