@@ -25,7 +25,7 @@ console.log(percent(20).from(50));
 // 10
 
 console.log(percent(20).is(10));
-// 10
+// 50
 
 console.log(percent("10%").from(420));
 // 42
