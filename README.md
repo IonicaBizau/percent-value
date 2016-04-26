@@ -1,16 +1,20 @@
+
 [![percent-value](http://i.imgur.com/aDuRzA9.png)](#)
 
 # percent-value [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/percent-value.svg)](https://travis-ci.org/IonicaBizau/percent-value/) [![Version](https://img.shields.io/npm/v/percent-value.svg)](https://www.npmjs.com/package/percent-value) [![Downloads](https://img.shields.io/npm/dt/percent-value.svg)](https://www.npmjs.com/package/percent-value) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Percentage helper functions.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save percent-value
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const percent = require("percent-value");
@@ -31,13 +35,23 @@ console.log(percent("10%").from(420));
 // 42
 ```
 
-## How to contribute
+## :memo: Documentation
+
+
+### `percentValue()`
+
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+
+ - [`fixed-or-percent`](https://github.com/IonicaBizau/fixed-or-percent#readme)—Get the percent or fixed value.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
