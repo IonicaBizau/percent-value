@@ -1,6 +1,6 @@
 {
   "name": "percent-value",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Percentage helper functions.",
   "main": "lib/index.js",
   "directories": {
